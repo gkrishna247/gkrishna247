@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate 3rd-year BE AIML student with a k
 ## 🛠️ Skills & Tools
 
 - **Programming Languages:** Python, C, Java
-- **Machine Learning Frameworks:** TensorFlow
+- **Machine Learning Frameworks:** TensorFlow, Scikit-Learn
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools & Platforms:** Git, GitHub, Linux
 - **Data Science:** Pandas, NumPy, Matplotlib
