@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate 3rd-year BE AIML student with a k
 
 ## 📊 GitHub Stats
 
-[![Krishnamoorthi G's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrishna247&show_icons=true&theme=radical)](https://github.com/gkrishna247/github-readme-stats)
+[![Krishnamoorthi G's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrishna247&show_icons=true&theme=merko)](https://github.com/gkrishna247/github-readme-stats)
 ---
 
 ## 🌐 Let's Connect
