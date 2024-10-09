@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate 3rd-year BE AIML student with a k
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/gkrishna247)
-- [X](https://x.com/gkrishna247)
+- [Twitter (now X)](https://twitter.com/gkrishna247)
 
 ---
 
