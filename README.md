@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate 3rd-year BE AIML student with a keen interest in artificial intelligence, machine learning, and software development. Here, you'll find a collection of my projects, experiments, and contributions.
 
+![Profile Views](https://komarev.com/ghpvc/?username=gkrishna247&color=blue)
+
 ---
 
 ## 🚀 About Me
@@ -38,3 +40,4 @@ Welcome to my GitHub profile! I'm a passionate 3rd-year BE AIML student with a k
 ---
 
 Thanks for stopping by! 😊
+
