@@ -48,6 +48,8 @@ class KrishnamoorthiG:
 
 ### 🌟 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=gkrishna247&theme=tokyo-night&hide_border=true)](https://github.com/gkrishna247)
+### 🌟 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=gkrishna247&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### ⚡ Weekly Development Breakdown
 <img src="https://wakatime.com/share/@gkrishna247/cf3b70f7-c0fd-442c-ad88-b1b5a9e045d1.svg" alt="Weekly Coding Stats" width="70%"/>
@@ -68,14 +70,10 @@ class KrishnamoorthiG:
 
 </div>
 
-## 📈 More Statistics & Visualizations
-
 <div align="center">
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gkrishna247&theme=tokyonight&hide_border=true)](https://github.com/gkrishna247)
+### 🌟 Thanks for visiting! 🌟
 
-### 📊 Contribution Details
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkrishna247&theme=tokyonight" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=25&duration=4000&pause=1000&center=true&width=435&lines=%F0%9F%94%AE+We+appreciate+your+presence.+%F0%9F%A7%90;%E2%8F%B3+Something+is+coming...+%F0%9F%8C%91)](https://git.io/typing-svg)
 
 </div>
