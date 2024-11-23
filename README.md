@@ -74,6 +74,6 @@ class KrishnamoorthiG:
 
 ### 🌟 Thanks for visiting! 🌟
 
-[![Typing SVG](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mystery+Quest&size=25&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%94%AE+We+appreciate+your+presence.+%F0%9F%A7%90;%E2%8F%B3+Something+is+coming...+%F0%9F%8C%91)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mystery+Quest&size=25&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%94%AE+We+appreciate+your+presence.+%F0%9F%A7%90;%E2%8F%B3+Something+is+coming...+%F0%9F%8C%91)](https://git.io/typing-svg)
 
 </div>
