@@ -48,7 +48,7 @@ class KrishnamoorthiG:
 
 ### 🌟 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=gkrishna247&theme=tokyo-night&hide_border=true)](https://github.com/gkrishna247)
-### 🌟 Streak Stats
+### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=gkrishna247&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### ⚡ Weekly Development Breakdown
@@ -74,6 +74,6 @@ class KrishnamoorthiG:
 
 ### 🌟 Thanks for visiting! 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mystery+Quest&size=25&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%94%AE+We+appreciate+your+presence.+%F0%9F%A7%90;%E2%8F%B3+Something+is+coming...+%F0%9F%8C%91)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&size=25&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%94%AE+We+appreciate+your+presence.+%F0%9F%A7%90;%E2%8F%B3+Something+is+coming...+%F0%9F%8C%91)](https://git.io/typing-svg)
 
 </div>
