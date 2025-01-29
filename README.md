@@ -52,8 +52,12 @@ class KrishnamoorthiG:
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=gkrishna247&theme=tokyo-night&hide_border=true)](https://github.com/gkrishna247)
 
 ### 🔥 Streak Stats
+<<<<<<< HEAD
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gkrishna247&theme=algolia&border_radius=5.5&short_numbers=true)](https://git.io/streak-stats)
+=======
+[![GitHub Streak](https://streak-stats.demolab.com?user=gkrishna247&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+>>>>>>> parent of 78111d1 (Update Streak Stats badge in README.md with new theme and options)
 
 ### ⚡ Weekly Development Breakdown
 
