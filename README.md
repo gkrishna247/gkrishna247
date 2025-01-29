@@ -49,7 +49,7 @@ class KrishnamoorthiG:
 ### 🌟 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=gkrishna247&theme=tokyo-night&hide_border=true)](https://github.com/gkrishna247)
 ### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=gkrishna247&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gkrishna247&theme=algolia&border_radius=5.5&short_numbers=true)](https://git.io/streak-stats)
 
 ### ⚡ Weekly Development Breakdown
 <img src="https://wakatime.com/share/@gkrishna247/cf3b70f7-c0fd-442c-ad88-b1b5a9e045d1.svg" alt="Weekly Coding Stats" width="70%"/>
